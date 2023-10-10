@@ -1,2 +1,3 @@
-# FlameClient-3.8
-Includes: Toggle Sprint, Hitbox, and more check it out for yourself.
+# Ink'd Client-3.8
+Not your average Eaglercraft Client. 🦑🚨
+Check it out yourself. 🫠
